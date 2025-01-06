@@ -151,3 +151,5 @@ delay(20000);
 โปรเจคนี้เปิดเผยให้ใช้งานได้ฟรีภายใต้ลิขสิทธิ์ MIT
 
 ---
+
+![คำอธิบายรูปภาพ](https://raw.githubusercontent.com/Useless007/hello_thingspeak/refs/heads/main/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A.jpg)
